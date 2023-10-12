@@ -13,12 +13,12 @@
 # How is the data kept safe when transmitted between the SSH client and server?
 - SSH protocol uses strong symmetric encryption (PKI) and hashing algorithms to ensure the privacy and integrity of the data that is exchanged between the client and server.
 # What is SFTP?
-- The SFTP stands for the SSH file Transfer Protocol, it is the most widely ised secure file transfer protocol today. It runs over SSH.
+- The SFTP stands for the SSH file Transfer Protocol, it is the most widely used secure file transfer protocol today. It runs over SSH.
 # What is RDP? And how to use it
 - RDP stands for Remote Desktop Protocol, its port number is 3389 and it is a Microsoft owned tool that gives users the ability to connect to a remote windows P or server over the internet or local network.
 # What is Windows Remote Desktop Connection?
 - It is a tool that gives users the ability to connect to a remote windows PC or server over the internet or on a local network.
 # What is RDP?
-- The Remote Desktop Protocol allows remote users to see and use WIndows on a device in another location. Key peripherals like your keyboard and mouse are shared with the remote machine, allowing users to use and control it from any location.
+- The Remote Desktop Protocol allows remote users to see and use Windows on a device in another location. Key peripherals like your keyboard and mouse are shared with the remote machine, allowing users to use and control it from any location.
 # What is the RDP port number?
 - The RDP port number is 3389
