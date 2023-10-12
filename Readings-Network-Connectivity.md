@@ -1,4 +1,7 @@
 # Readings: Network Connectivity
+# Wht does this topic matter?
+- This topic matters beacuse as a sybersecurity professional it is important to know about protocols that allow use to connect remotely and secure that connection.
+- 
 # What is the Secure Shell (SSH) Protocol?
 - The SSH protocol is a method for secure remote login from one computer to another. It protects communications security and integrity with strong encryption.  
 # What are the typical uses of the SSH protocol?
