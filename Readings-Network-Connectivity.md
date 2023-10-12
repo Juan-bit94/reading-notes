@@ -1,7 +1,7 @@
 # Readings: Network Connectivity
 # Wht does this topic matter?
 - This topic matters beacuse as a sybersecurity professional it is important to know about protocols that allow use to connect remotely and secure that connection.
-- 
+- In this day in age, there is a real security need for data encryption in transite and at rest. Knowing about SSH will enable individuals to understand concepts such as encryption, tunneling, and other security protocols. 
 # What is the Secure Shell (SSH) Protocol?
 - The SSH protocol is a method for secure remote login from one computer to another. It protects communications security and integrity with strong encryption.  
 # What are the typical uses of the SSH protocol?
@@ -25,3 +25,5 @@
 - The Remote Desktop Protocol allows remote users to see and use Windows on a device in another location. Key peripherals like your keyboard and mouse are shared with the remote machine, allowing users to use and control it from any location.
 # What is the RDP port number?
 - The RDP port number is 3389
+# Things I want to know more about
+- I would like to know about encyption protocols that are not in use anymore. Knowing why they are not used would give me an idea of how hacks happen due to misconfigurations in the security settings. 
